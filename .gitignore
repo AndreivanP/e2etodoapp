@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+Test/js/
+
+# Typescript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+
+# End of https://www.gitignore.io/api/node
+
